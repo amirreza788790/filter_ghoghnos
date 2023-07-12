@@ -2,7 +2,7 @@
 #GHOGHNOS_BLACK
 import random
 #start
-b = random.randint(100,900)
+b = random.randint(1234,9876)
 
 print(f'\033[92m')
 
