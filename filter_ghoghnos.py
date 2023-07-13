@@ -2,6 +2,24 @@
 #GHOGHNOS_BLACK
 import random
 #start
+
+print(f'\033[94m')
+from time import sleep
+
+x = ("""
+	 
+        GHOGHNOS_BLACK
+                  SKRIPT : FILTER GHOGGHNOS
+                           TAQDIM BE DELBARAM 💜KOSAR💜
+
+		""")
+                 
+for CoursNight in x :
+	sleep(0.05)
+	print(CoursNight,end='' ,flush=True)
+        
+
+#start2
 b = random.randint(1234,9876)
 
 print(f'\033[92m')
